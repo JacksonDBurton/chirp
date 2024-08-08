@@ -1,1 +1,6 @@
 /target
+/debug
+
+# Undo Later? While binary don't track
+Cargo.lock
+
